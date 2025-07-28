@@ -109,7 +109,7 @@ header {
   position: relative;
   width: 100%;
   height: 100vh;
-  background: linear-gradient(to bottom, rgba(233, 246, 252, 0) 80%, rgba(233, 246, 252, 0.5) 100%), url('assets/hpbg.png') no-repeat center center;
+  background: linear-gradient(to bottom, rgba(233, 246, 252, 0) 80%, rgba(233, 246, 252, 0.5) 100%), url('assets/homepage/hpbg.png') no-repeat center center;
   background-size: cover;
   display: grid;
   grid-template-columns: repeat(1, 1fr);
